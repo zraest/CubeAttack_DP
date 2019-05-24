@@ -2,11 +2,11 @@
 
 Automatic tools for finding distinguishers simplify the attacks. Here, we extend and adapt [Solvatore](https://github.com/kste/solvatore) to find cube distinguishers for block ciphers in a non-blackbox manner and apply it to block cipher KATAN32.
 
-## Running the tests
+## Running
 
 python katan32_test.py
 
-## Authors
+## Author
 
 * **Zahra Eskandari** [zraest](https://github.com/zraestgithub)
 
