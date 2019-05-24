@@ -1,6 +1,6 @@
 # Cube Distinguisher Extraction using Division Property in Block Ciphers
 
-Automatic tools for identifying distinguishers simplified these type attacks. Here, we extend and adapt [Solvatore](https://github.com/kste/solvatore) to find cube distinguishers for block ciphers in a non-blackbox manner and apply it to block cipher KATAN32.
+Automatic tools for finding distinguishers simplify the attacks. Here, we extend and adapt [Solvatore](https://github.com/kste/solvatore) to find cube distinguishers for block ciphers in a non-blackbox manner and apply it to block cipher KATAN32.
 
 ## Running the tests
 
